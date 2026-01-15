@@ -1,68 +1,90 @@
 <h1 align="center">Hi 👋, I'm Chihunanya Onyiriuka</h1>
 <h3 align="center">Student • Social Media Manager • Aspiring Software Developer</h3>
 
----
-
-### 👩🏽‍💻 About Me
-I’m a **student, creative technologist, and project-oriented developer** with internship experience at **NITDA (NCAIR)**, focused on building practical digital products and managing projects from idea to execution.
-
-- 🎓 Student with hands-on technical and professional experience  
-- 🏢 Intern at **National Information Technology Development Agency (NITDA)**  
-  *(National Centre for Artificial Intelligence and Robotics – NCAIR)*  
-- 📱 Social Media Manager for a student-focused startup  
-- 🗂️ Strong skills in **project planning, coordination, and task management**  
-- 💻 Building web apps with **Python, Streamlit & FastAPI**  
-- 🌱 Currently learning **backend development and APIs**  
-- 🎥 Tech & lifestyle content creator on YouTube  
-
-I enjoy working with **focused, growth-driven teams** and building solutions that solve real problems.
-
----
-
-### 🛠️ Tech & Professional Skills
-- **Languages:** Python, HTML, CSS  
-- **Frameworks & Tools:** Streamlit, FastAPI  
-- **Web & Deployment:** GitHub Pages  
-- **Project Management:** Task planning, coordination, content calendars  
-- **Design & Content:** Canva, CapCut  
-- **Version Control:** Git, GitHub  
-
----
-
-### 🚀 Projects
-- 🌍 **LINGUA** – A language-focused app designed to improve learning and communication  
-- 📱 **Weavre** – Student community app (social media & content management)  
-- 📄 **Birth Certificate Generator** – Built with Streamlit and FastAPI  
-- ✅ **Task Management App** – Productivity app developed using Streamlit  
-
----
-
-### 🏢 Internship Experience
-- **National Information Technology Development Agency (NITDA)**  
-  **National Centre for Artificial Intelligence and Robotics (NCAIR)**  
-  *Intern*  
-  - Gained exposure to **technology-driven innovation and digital transformation**
-  - Worked in a structured, collaborative tech environment
-  - Developed practical skills in **digital tools, project coordination, and problem-solving**
-
----
-
-### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chihunanya&show_icons=true&theme=default" />
+✨ Creative. Project-driven. Always learning. ✨
 </p>
 
 ---
 
-### 🎥 Content Creation
-- ▶️ **YouTube:** [NayaonYT](https://www.youtube.com/@NayaonYT)
+## 👩🏽‍💻 About Me
+<p align="center">
+I’m a <b>student, creative technologist, and project-oriented developer</b> with internship experience at <b>NITDA (NCAIR)</b>. I focus on building practical digital products and managing projects from idea to execution.
+</p>
+
+<ul>
+  <li>🎓 Student with hands-on technical and professional experience</li>
+  <li>🏢 Intern at <b>National Information Technology Development Agency (NITDA)</b> - National Centre for Artificial Intelligence and Robotics (NCAIR)</li>
+  <li>📱 Social Media Manager for a student-focused startup</li>
+  <li>🗂️ Strong skills in <b>project planning, coordination, and task management</b></li>
+  <li>💻 Building web apps with <b>Python, Streamlit & FastAPI</b></li>
+  <li>🌱 Currently learning <b>backend development and APIs</b></li>
+  <li>🎥 Tech & lifestyle content creator on YouTube</li>
+</ul>
 
 ---
 
-### 📫 Let’s Connect
-- 💼 LinkedIn: *(https://ng.linkedin.com/in/chihunanya-onyiriuka-841290339)*  
-- 🐦 X (Twitter): *(https://x.com/sympul_naya)*  
+## 🛠️ Tech & Professional Skills
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" /> 
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Project Management-FADADD?style=for-the-badge&logoColor=black" />
+</p>
 
 ---
 
-⭐️ *Curious. Creative. Project-driven. Always learning.*
+## 🚀 Projects
+<p align="center">
+<b>🌍 LINGUA</b> – Language-focused app designed to improve learning & communication <br>
+<b>📱 Weavre</b> – Student community app (social media & content management) <br>
+<b>📄 Birth Certificate Generator</b> – Streamlit + FastAPI project <br>
+<b>✅ Task Management App</b> – Productivity app built with Streamlit
+</p>
+
+---
+
+## 🏢 Internship Experience
+<p align="center">
+<b>National Information Technology Development Agency (NITDA)</b> – National Centre for Artificial Intelligence and Robotics (NCAIR) <br>
+<em>Intern</em>
+</p>
+<ul>
+  <li>💡 Gained exposure to technology-driven innovation and digital transformation</li>
+  <li>🤝 Worked in a structured, collaborative tech environment</li>
+  <li>🛠️ Developed practical skills in digital tools, project coordination, and problem-solving</li>
+</ul>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Chihunanya&show_icons=true&theme=radical&count_private=true&hide_border=false" />
+  <br /><br />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chihunanya&layout=compact&theme=radical&hide_border=false" />
+</p>
+
+---
+
+## 🎥 Content Creation
+<p align="center">
+▶️ <b>YouTube:</b> <a href="https://www.youtube.com/@NayaonYT">NayaonYT</a>
+</p>
+
+---
+
+## 📫 Let’s Connect
+<p align="center">
+💼 LinkedIn: *(https://ng.linkedin.com/in/chihunanya-onyiriuka-841290339)* <br>
+🐦 X (Twitter): *(https://x.com/sympul_naya)* <br>
+📧 Email: *(nayagiftgladys@gmail.com)*
+</p>
+
+---
+
+<p align="center">
+⭐️ Curious. Creative. Project-driven. Always learning. ✨
+</p>
