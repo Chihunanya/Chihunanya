@@ -60,8 +60,8 @@ I enjoy working with **focused, growth-driven teams** and building solutions tha
 ---
 
 ### 📫 Let’s Connect
-- 💼 LinkedIn: *(add when ready)*  
-- 🐦 X (Twitter): *(add when ready)*  
+- 💼 LinkedIn: *(https://ng.linkedin.com/in/chihunanya-onyiriuka-841290339)*  
+- 🐦 X (Twitter): *(https://x.com/sympul_naya)*  
 
 ---
 
