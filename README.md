@@ -24,16 +24,17 @@ I’m a <b>student, creative technologist, and project-oriented developer</b> wi
 
 ---
 
-## 🛠️ Tech & Professional Skills
 <p align="center">
-<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" /> 
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
-<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> 
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Project Management-FADADD?style=for-the-badge&logoColor=black" />
+  <img src="https://pin.it/2gqJ8o8Cb" /> <br><br>
+  <img src="https://pin.it/e132sgVi8" /> <br><br>
+  <img src="https://pin.it/1optiEj5B" /> <br><br>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" /> <br><br>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" /> <br><br>
+  <img src="https://pin.it/kD0dycMJm" /> <br><br>
+  <img src="https://pin.it/6nT0EiCK1" /> <br><br>
 </p>
+
+
 
 ---
 
